@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rishabh Kala</h1>
-<h3 align="center">Dedicated software engineer with a passion for software development and problem-solving. Proficient in Java, data structures, and algorithms, I enjoy tackling complex challenges and finding efficient solutions. Alongside my programming skills, I have a solid foundation in web development, encompassing React, Next.js.</h3>
+<h3 align="center">Software Engineer with 2 years of experience building scalable, production-grade web applications using Next.js,
+TypeScript, and FastAPI. Experienced in architecting workflow systems, admin platforms, and backend microservices with
+RBAC and real-time capabilities. Strong in frontend architecture, performance optimization, and delivering high-impact
+features in fast-paced startup environments.
+</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh-kala-2003&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh-kala-2003" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-rishabh-seven.vercel.app/](https://portfolio-rishabh-seven.vercel.app/)
+
 
 - 💬 Ask me about **react,Nodejs,Express,Javascript,Core Java with Data Structures and algorithms**
 
