@@ -1,30 +1,41 @@
-<h1 align="center">Hi 👋, I'm Rishabh Kala</h1>
-<h3 align="center">Software Engineer with 2 years of experience building scalable, production-grade web applications using Next.js,
-TypeScript, and FastAPI. Experienced in architecting workflow systems, admin platforms, and backend microservices with
-RBAC and real-time capabilities. Strong in frontend architecture, performance optimization, and delivering high-impact
-features in fast-paced startup environments.
-</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+# Rishabh Kala
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh-kala-2003&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh-kala-2003" /> </p>
+**Full-Stack Engineer** building scalable web apps and backend microservices.
 
+2 years of production experience shipping AI-driven platforms, workflow systems, and admin tools at startup pace.
 
+---
 
-- 💬 Ask me about **react,Nodejs,Express,Javascript,Core Java with Data Structures and algorithms**
+### What I work with
 
-- 📫 How to reach me **rishabh.kala2003@gmail.com**
+**Frontend:** Next.js · React · TypeScript · Canvas-based UI Systems  
+**Backend:** Python · FastAPI · gRPC · REST APIs · Microservices  
+**Databases:** PostgreSQL · Redis  
+**Architecture:** RBAC · API Gateway · Real-time Systems (WebSocket, Streaming)  
+**Other:** Git · Docker · Web3 Integrations
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rishabh-kala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-kala" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rishabhkala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishabhkala" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### What I've built (professionally)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabh-kala-2003&show_icons=true&locale=en&layout=compact" alt="rishabh-kala-2003" /></p>
+- **AI Workflow Builder** — Dynamic canvas system rendering backend-driven JSON into interactive, configurable workflows
+- **Admin Platform** — End-to-end frontend + backend with RBAC-based access control and API Gateway-level permission validation
+- **Scheduler & Notification Microservices** — FastAPI + gRPC services for reliable task orchestration and async processing
+- **Real-time Systems** — Live chat and streaming workflows for production users
+- **Web3 Modules** — Swap and Liquidity Pool interfaces with wallet authentication
 
+---
 
+### Currently focused on
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh-kala-2003&" alt="rishabh-kala-2003" /></p>
+- Deepening system design knowledge
+- DSA problem-solving (LeetCode: [rishabhkala](https://leetcode.com/u/rishabhkala/))
+- Building open-source projects
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-kala/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/rishabhkala/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rishabh.kala2003@gmail.com)
