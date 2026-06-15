@@ -26,39 +26,23 @@
 
 ### What I work with
 
-**Languages**
+**Languages -**
 `TypeScript` `JavaScript` `Python` `Java` `HTML5` `CSS3`
 
-**Frontend**
+**Frontend -**
 `React.js` `Next.js` `React Query` `Tailwind CSS` `styled-components` `Canvas UI` `Storybook`
 
-**Backend**
-`FastAPI` `Node.js` `Bun` `Elysia` `Spring Boot` `gRPC` `REST APIs` `Microservices` `Protobuf`
+**Backend -**
+`FastAPI` `Node.js` `Bun` `Elysia` `gRPC` `REST APIs` `Microservices` `Protobuf`
 
-**Databases & Messaging**
+**Databases & Messaging -**
 `PostgreSQL` `MongoDB` `Redis` `Pub/Sub` `Kafka`
 
-**Infrastructure & DevOps**
-`GCP` `GKE` `Kubernetes` `Docker` `Helm` `CI/CD` `Workload Identity`
+**Infrastructure & DevOps -**
+`GCP` `GKE` `Docker` `CI/CD` `Workload Identity`
 
-**AI / GenAI**
+**AI / GenAI -**
 `LLM Integration` `LangChain` `LangGraph` `RAG` `Prompt Engineering` `MCP Tool Orchestration` `Agentic Workflows`
-
----
-
-### What I've built (professionally)
-
-**AI Workflow Automation Builder**
-Canvas-based workflow editor in React/Next.js — Pipedream trigger flows, OAuth, MCP/tool marketplace, scheduler management, activity logs, and AI-assisted workflow generation.
-
-**Super Admin & Operations Platform**
-End-to-end frontend + backend across 10+ modules: organisations, users, AI agents, workflows, credit management, subscriptions, RBAC permission wiring, and audit-log views.
-
-**Agent Deployment & Runtime Infrastructure**
-Versioning, marketplace publish/update flows, GitHub-based in-place deployment, runtime env-var reconfiguration, SSE/polling progress, sandbox backup/restore, and rollback callbacks.
-
-**Scheduler & Notification Microservices**
-FastAPI + gRPC services for task orchestration and async processing — 350+ scheduler and 880+ notification tests across unit, integration, security, and resilience layers.
 
 ---
 
@@ -77,6 +61,6 @@ Polls Linear tickets → enriches context → resolves repos → runs Claude Cod
 
 ---
 
-<p align="center">
+<p align="Left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-Kala&layout=compact&theme=default&hide_border=true" height="150" />
 </p>
